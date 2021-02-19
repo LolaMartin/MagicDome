@@ -12,5 +12,7 @@ things having more or less the same structure, but with little changes to shape 
 
 With the opening.ino we could add a melody in the turn on of dome, it can be changed easily adding new frecuencies
 and durations from the new melody.
+
+You can look all proyect here -> https://www.instructables.com/Magic-Dome/
   
   
